@@ -33,7 +33,13 @@
 
 ## 📊 GitHub İstatistikleri:
 
-![Ceren GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceren15&show_icons=true&theme=radical&cache_seconds=10000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceren15&layout=compact&theme=radical&cache_seconds=10000)
-![Streak](https://streak-stats.demolab.com?user=ceren15&theme=radical&hide_border=true&cache_seconds=10000)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ceren15&show_icons=true&theme=radical&cache_seconds=10000" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceren15&layout=compact&theme=radical&cache_seconds=10000" height="160" />
+
+<img src="https://streak-stats.demolab.com?user=ceren15&theme=radical&hide_border=true&cache_seconds=10000" height="160" />
+
+</div>
 
